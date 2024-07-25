@@ -1,4 +1,4 @@
-# Prodigy InfoTech Internship Task 2: Data Cleaning & EDA On Used Cars DatasetInsights
+# Prodigy InfoTech Internship Task 2: Data Cleaning & EDA On Used Cars Dataset
 Welcome to the Prodigy InfoTech Internship repository! This repository documents are for Task 2 of my internship journey, focusing on data cleaning, analysis through EDA and uncovering insightful patterns.
 
 # Data Context
